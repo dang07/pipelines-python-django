@@ -1,5 +1,8 @@
 # Sample Python app for Azure Pipelines docs
 
+WHAT  [![Build Status](https://dev.azure.com/ntn410/test/_apis/build/status/dang07.pipelines-python-django?branchName=master)](https://dev.azure.com/ntn410/test/_build/latest?definitionId=1?branchName=master)
+
+
 For information on how to use this repository, see [Python](https://docs.microsoft.com/azure/devops/pipelines/languages/python).
 
 | Example | Build status |
